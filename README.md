@@ -89,7 +89,7 @@ Since this video contained breif introduction to playground and its features, I 
 
 Link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/playground_experiments.ipynb
 
-### Video 2: 
+### Video 2: prompt_hub
 I've learned how to use prompt function in lagsmith desktop where i have learned how to create a prompt , call a prompt and upload a prompt and more that i have shown in my learning notebook and i have worked on normal notebook too and implemented everything as shown .
 
 link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/prompt_hub.ipynb
@@ -98,5 +98,14 @@ link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Mo
 I did a little bit of twerking by my my own prompt of power ranger and modified it , played with it in langsmith and shown all the work with the help of the screenshots in following notebook
 
 link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/prompt_hub_mylearning.ipynb
+
+### Video 3: promt_engineering_lifecycle
+I've learned how to load prompt from tracing projects to playground , and then adding my own data set and test the following prompt on that dataset in playground and then saving it as a new prompt then importing that new prompt and asking questions to llm to get output 
+
+### What i did:
+I did a little bit of twerking by adding my own dataset and asking some differetn questions to the model and along with that i have attached screenshots for all my work and learnings from the video in the same file .
+
+link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/playground_experiments.ipynb
+
 
 
