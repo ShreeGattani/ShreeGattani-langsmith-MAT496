@@ -82,11 +82,21 @@ Link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Mo
 # MODULE 3
 
 ### Video 1: Playground
-I've learned that prompt templates are much more flexible than fixed, hardcoded prompts because they use variables to let you easily change things up. Jumping into the LangSmith desktop Playground, I noticed right away how much your answer can shift just by tweaking the system prompt. The Playground is super handy because it lets you test out different models and settings side-by-side using the exact same prompt, and you can see the final outputs all at once instead of them streaming in. I also figured out how to make the model give answers in a specific format using an output schema, or you can get the same result by using a tool instead. Plus, it's cool that you can even run tests on your existing datasets right there in the Playground.
+I have learned how can we use the playground feature in langsmith desktop and create prompt and modify it with the help of output sceema , repitations , adding a tool , asking question unrelated to prompt , adding sample questions to the prompt etc and i have shown everything in my notebook link i have provided below , as there were just twerking in the prompt so nothing much to change so i did that in my notebook itself.
 
 ### What i did:
 Since this video contained breif introduction to playground and its features, I explored all of it with the tutorial and attached all of its screenshots in the notebook. along with that i had done both the things about changes and and what i learned in the same notebook.
 
 Link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/playground_experiments.ipynb
+
+### Video 2: 
+I've learned how to use prompt function in lagsmith desktop where i have learned how to create a prompt , call a prompt and upload a prompt and more that i have shown in my learning notebook and i have worked on normal notebook too and implemented everything as shown .
+
+link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/prompt_hub.ipynb
+
+### What i did:
+I did a little bit of twerking by my my own prompt of power ranger and modified it , played with it in langsmith and shown all the work with the help of the screenshots in following notebook
+
+link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/prompt_hub_mylearning.ipynb
 
 
