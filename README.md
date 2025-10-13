@@ -107,5 +107,11 @@ I did a little bit of twerking by adding my own dataset and asking some differet
 
 link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/playground_experiments.ipynb
 
+### Video 4: Prompt Canvas
+
+### My learning (as there is no particular nootebook for this )
+In this video, I learned about the Prompt Canvas in LangSmith, which helps refine and edit prompts using an LLM. It allows users to modify specific parts, create custom quick actions, and standardize prompts across a team or organization. and i have added some screenshots in this file .
+
+link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/prompt_canvas.ipynb
 
 
