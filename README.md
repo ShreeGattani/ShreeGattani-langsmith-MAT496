@@ -79,5 +79,14 @@ I learned the process of systematically evaluating LLM applications using a comb
 
 Link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%202/analysing_experiments.ipynb
 
+# MODULE 3
+
+### Video 1: Playground
+I've learned that prompt templates are much more flexible than fixed, hardcoded prompts because they use variables to let you easily change things up. Jumping into the LangSmith desktop Playground, I noticed right away how much your answer can shift just by tweaking the system prompt. The Playground is super handy because it lets you test out different models and settings side-by-side using the exact same prompt, and you can see the final outputs all at once instead of them streaming in. I also figured out how to make the model give answers in a specific format using an output schema, or you can get the same result by using a tool instead. Plus, it's cool that you can even run tests on your existing datasets right there in the Playground.
+
+### What i did:
+Since this video contained breif introduction to playground and its features, I explored all of it with the tutorial and attached all of its screenshots in the notebook. along with that i had done both the things about changes and and what i learned in the same notebook.
+
+Link: https://github.com/ShreeGattani/ShreeGattani-langsmith-MAT496/blob/main/Module%203/playground_experiments.ipynb
 
 
